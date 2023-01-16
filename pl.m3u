@@ -1,0 +1,37 @@
+#EXTM3U catchup="append" catchup-source="?utc=${start}" url-tvg="https://st.playtv.pro/epg/epg.xml.gz"
+#EXTINF:0 catchup-days="5" timeshift="5" tvg-rec="5" tvg-id="pervyhd" tvg-logo="https://st.playtv.pro/picons/ru/pervyj.png" group-title="Россия базовые",Первый канaл
+#EXTGRP:Россия базовые
+https://em.gazoni1.com:443/live/s.286132.f0f666c0541db180beae4d1eda64be342/pervy.ts
+#EXTINF:0 catchup-days="5" timeshift="5" tvg-rec="5" tvg-id="rossia1" tvg-logo="https://st.playtv.pro/picons/ru/rossia1.png" group-title="Россия базовые",Росcия 1
+#EXTGRP:Россия базовые
+https://em.gazoni1.com:443/live/s.286132.f0f666c0541db180beae4d1eda64be342/rossia1.ts
+#EXTINF:0 catchup-days="5" timeshift="5" tvg-rec="5" tvg-id="ntv" tvg-logo="https://st.playtv.pro/picons/ru/ntv-white.png" group-title="Россия базовые",НTВ
+#EXTGRP:Россия базовые
+https://em.gazoni1.com:443/live/s.286132.f0f666c0541db180beae4d1eda64be342/ntv.ts
+#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="ntv-mir" tvg-logo="https://st.playtv.pro/picons/ru/ntvmir.png" group-title="Россия базовые",НТВ Мир
+#EXTGRP:Россия базовые
+https://em.gazoni1.com:443/live/s.286132.f0f666c0541db180beae4d1eda64be342/ntv-mir.ts
+#EXTINF:0 catchup-days="4" timeshift="4" tvg-rec="4" tvg-id="sts" tvg-name="СТС" tvg-logo="https://st.playtv.pro/picons/ru/sts.png" group-title="Россия базовые",СТС
+#EXTGRP:Россия базовые
+https://em.gazoni1.com:443/live/s.286132.f0f666c0541db180beae4d1eda64be342/sts.ts
+#EXTINF:0 catchup-days="3" timeshift="3" tvg-rec="3" tvg-id="5kanal-ru" tvg-logo="https://st.playtv.pro/picons/ru/5kanal-ru.png" group-title="Россия базовые",Пятый канал
+#EXTGRP:Россия базовые
+https://em.gazoni1.com:443/live/s.286132.f0f666c0541db180beae4d1eda64be342/5kanal-ru.ts
+#EXTINF:0 catchup-days="3" timeshift="3" tvg-rec="3" tvg-id="zvezda" tvg-logo="https://st.playtv.pro/picons/ru/zvezda.png" group-title="Россия базовые",Звезда
+#EXTGRP:Россия базовые
+https://em.gazoni1.com:443/live/s.286132.f0f666c0541db180beae4d1eda64be342/zvezda.ts
+#EXTINF:0 catchup-days="3" timeshift="3" tvg-rec="3" tvg-id="domashny" tvg-logo="https://st.playtv.pro/picons/ru/domashny.png" group-title="Россия базовые",Домашний
+#EXTGRP:Россия базовые
+https://em.gazoni1.com:443/live/s.286132.f0f666c0541db180beae4d1eda64be342/domashny.ts
+#EXTINF:0 catchup-days="5" timeshift="5" tvg-rec="5" tvg-id="piatnicahd" tvg-logo="https://st.playtv.pro/picons/ru/pyatnica.png" group-title="Развлекательные",Пятница
+#EXTGRP:Россия базовые
+https://em.gazoni1.com:443/live/s.286132.f0f666c0541db180beae4d1eda64be342/piatnica.ts
+#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="russky-roman" tvg-logo="https://st.playtv.pro/picons/ru/russky-roman.png" group-title="Кино",Русский роман
+#EXTGRP:Россия базовые
+https://em.gazoni1.com:443/live/s.286132.f0f666c0541db180beae4d1eda64be342/russky-roman.ts
+#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="karusel" tvg-logo="https://st.playtv.pro/picons/ru/karusel.png" group-title="Детские",Карусель
+#EXTGRP:Россия базовые
+https://em.gazoni1.com:443/live/s.286132.f0f666c0541db180beae4d1eda64be342/karusel.ts
+#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="rossia-24" tvg-logo="https://st.playtv.pro/picons/ru/rossia24.png" group-title="Новости",Рoсcия-24
+#EXTGRP:Россия базовые
+https://em.gazoni1.com:443/live/s.286132.f0f666c0541db180beae4d1eda64be342/rossia-24.ts
